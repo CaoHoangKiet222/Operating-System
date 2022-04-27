@@ -1,0 +1,10 @@
+1. All enroll() and disenroll() does not happen at the same time
+    => The process happens normally
+2. 2 or more students do enroll() at the same time
+    => The number of students may be less than or equal to the real students in class.
+3. 2 or more students do disenroll() at the same time
+    => The number of students may be more than or equal to the real students in class.
+4. 1 student does enroll() while another do disenroll() at the same time
+    => The number of students can be different from the real students in class.
+5. The number of students make enroll() at the same time make no.student surpass class_size
+    => The number of students can be different from the real students in class.

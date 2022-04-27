@@ -1,0 +1,3 @@
+count_mutex: lock the normal count until 1 thread finish
+
+count_threshold_cv: send signal if count == COUNT_LIMIT (reached threshold)

@@ -1,0 +1,7 @@
+Name: Cao Hoang Kiet
+Student Id: 2053165
+Age: 20
+Year: 2022
+School: HCMUT
+Class OS: CC02
+This is Basic For Lab 1

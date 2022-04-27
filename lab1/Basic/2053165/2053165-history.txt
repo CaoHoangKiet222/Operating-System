@@ -1,0 +1,301 @@
+cd lab1/Questions
+ls
+rm -rf Picture
+nvim Makefile
+mkdir 1.\ Question1
+ls
+mv hello.c hello.h main.c Makefile 1.\ Question1
+ls
+rm hello hello.o main.o
+mkdir 2.\ Question2
+cd 2.\ Question2
+ls
+cd ..
+ls
+cd 1.\ Question1
+ls
+nvim Makefile
+make all
+ls
+nvim hello.c
+cd ..
+ls
+cd 2.\ Question2
+ls
+mkdir HelloWorld
+ls
+cd ..
+cd 1.\ Question1
+cp Makefile hello.c main.c hello.h ../2.\ Question2
+cd ..
+ls
+cd 2.\ Question2
+ls
+mkdir Main
+mv main.c Main
+mv hello.c hello.h HelloWorld
+ls
+nvim Makefile
+make Makefile
+make all
+ls
+nvim Main/main.c
+ls
+cd ..
+ls
+mkdir 3.\ Question3
+ls
+cd 3.\ Question3
+nvim main.c
+ls
+cd ..
+ls
+cd ..
+ls
+cd Basic
+ls
+mkdir 2053165
+ls
+cd 2053165
+ls
+nvim example.txt
+ls
+ls
+cat example.txt
+head example.txt
+head 5 example.txt
+head -5 example.txt
+clear
+ls
+cat example.txt
+head -5 example.txt
+tail -5 example.txt
+cd lab1
+ls
+cd Basic
+ls
+cd ../Programming
+ls
+gcc -o factorial factorial.c
+ls
+./factorial
+gcc -o factorial factorial.c
+./factorial
+gcc -o readline readline.c
+./readline
+gcc -o readline readline.c
+./readline
+gcc -o readline readline.c
+./readline
+gcc -o readline readline.c
+./readline
+gcc -o readline readline.c
+./readline
+gcc -o myfactorial main.c
+cd Documents/DogBoy/KietD/Operating\ System/lab1/
+ls
+cd Questions
+ls
+cd 2.\ Question2
+ls
+nvim Makefile
+ls
+cd lab1
+ls
+cd Programming
+ls
+gcc -o myfactorial main.c
+ls
+make all
+cd Documents/DogBoy/KietD/Operating\ System/lab1/
+ls
+cd ..
+ls
+nvim multiProcess.c
+nvim processID.c
+gcc -o main main.c
+ls
+cd lab1/Programming/Problem\ 4
+ls
+gcc -o main main.c
+./main
+./main
+gcc -o main main.c
+ls
+./main
+gcc numbers.txt -o main main.c
+gcc -o main main.c numbers.txt
+gcc ./numbers.txt -o main main.c
+gcc numbers.txt
+gcc -o main main.c
+./main numbers.txt
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+gcc -o main main.c
+./main numbers.txt
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+make all
+cd Documents/DogBoy/KietD/LearnReact/ranger
+cd Documents/DogBoy/KietC/LearnReact/react-complete-guide-1
+ls
+nvim src/index.js
+ls
+cd ..
+ls
+ls
+ls
+cd react-complete-guide-2
+ls
+mv 08-finished/* ./
+ls
+ls 08-finished
+rmdir 08-finished
+ls
+nvim src/index.js
+cd
+cd Documents/DogBoy/KietD/Operating\ System
+ls
+cd lab1
+ls
+cd Questions
+ls
+cd cd ..
+ls
+cd 2.\ Question2
+ls
+cd ..
+cd ..
+ls
+cd Basic
+ls
+cd 2053165
+ls
+touch 2053165-history.txt
+ls
+cd ..
+ls
+cd ..
+cd Programming
+ls
+nvim factorial.h
+nvim readline.h
+ls
+nvim factorial.c
+nvim main.c
+nvim main.c
+ls
+nvim main.c
+ls
+mkdir Problem\ 1+2+3
+ls
+nvim main.c
+ls
+nvim Makefile
+make all
+ls
+mv factorial readline Makefile main.c Problem\ 1+2+3
+ls
+cd Problem\ 1+2+3
+ls
+make all
+ls
+cd ..
+mkdir Problem\ 4
+ls
+cd Problem\ 4
+touch numbers.txt
+ls
+nvim numbers.txt
+nvim main.c
+make all
+nvim Makefile
+cd Documents/DogBoy/KietD/Operating\ System/lab1/
+ls
+cd Programming
+ls
+cd Problem\ 1+2+3
+ls
+nvim Makefile
